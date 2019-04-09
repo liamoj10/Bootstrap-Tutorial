@@ -1,0 +1,9 @@
+#landing.jumbotron {
+    background-image: url("wc.jpg");
+    background-size: cover;
+}
+
+#landing.jumbotron h1 {
+    color: #FFF;
+    text-shadow: 2px 1px #000;
+}
